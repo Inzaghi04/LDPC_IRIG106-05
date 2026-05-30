@@ -1,1 +1,1 @@
-This project implements an LDPC decoder based on the USA IRIG 106-05 telemetry communication standard. The development process begins with algorithm design and verification in C language, followed by hardware implementation and optimization using Verilog HDL for FPGA deployment.
+This project implements an LDPC decoder based on the USA IRIG 106-15 telemetry communication standard. The development process begins with algorithm design and verification in C language, followed by hardware implementation and optimization using Verilog HDL for FPGA deployment.
